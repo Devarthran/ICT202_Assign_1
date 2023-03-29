@@ -1,4 +1,4 @@
-# ICT-202 Assignment 1 Github Page
+# ICT-202 Assignment 1
 ## Team
 - James L.
 - Bayley W.
